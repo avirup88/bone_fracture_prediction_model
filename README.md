@@ -1,7 +1,3 @@
-Here’s a professional and updated README file for your GitHub repository, including mentions of the Streamlit app.
-
----
-
 # Bone Fracture Detection and Classification
 
 This repository contains a comprehensive pipeline for detecting and classifying bone fractures using deep learning. The implementation is designed for ease of use, scalability, and interpretability, and it includes a user-friendly Streamlit app for real-time predictions.
@@ -114,19 +110,3 @@ The Streamlit app provides a web interface for classifying new images.
 - Optimize the model for deployment on edge devices.
 
 ---
-
-## Contributing
-Contributions are welcome! Please follow these steps:
-1. Fork the repository.
-2. Create a feature branch.
-3. Submit a pull request with detailed information about your changes.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Let me know if you want additional sections or adjustments!
