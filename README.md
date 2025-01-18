@@ -11,8 +11,6 @@ This repository contains a comprehensive pipeline for detecting and classifying 
   - [Training the Model](#training-the-model)
   - [Running the Streamlit App](#running-the-streamlit-app)
 - [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
